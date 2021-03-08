@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "unicorn"
+  ],
+  "rules": {
+    "unicorn/expiring-todo-comments": "error"
+  }
+}
